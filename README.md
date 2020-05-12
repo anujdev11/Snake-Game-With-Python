@@ -1,4 +1,4 @@
-# Snake-Game-With-Python[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+# Snake-Game-With-Python [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 Snake Game Made with Python Using Pygame module
 
 > ### To play the game, simply double click on the **build/snake.exe**.
