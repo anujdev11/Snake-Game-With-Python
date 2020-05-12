@@ -6,13 +6,13 @@ Snake Game Made with Python Using Pygame module
 ## Working
 
 ## Welcome Screen
-![alt text](https://github.com/anujdev11/Snake-Game-With-Python/blob/master/images/1.jpg)
+![alt text](https://github.com/anujdev11/Snake-Game-With-Python/blob/master/images/1.JPG)
 
 ## Playing
-![alt text](https://github.com/anujdev11/Snake-Game-With-Python/blob/master/images/3.jpg)
+![alt text](https://github.com/anujdev11/Snake-Game-With-Python/blob/master/images/3.JPG)
 
 ## Game Over
-![alt text](https://github.com/anujdev11/Snake-Game-With-Python/blob/master/images/2.jpg)
+![alt text](https://github.com/anujdev11/Snake-Game-With-Python/blob/master/images/2.JPG)
 
 To run this project or make your own version of it, follow these steps:
 
