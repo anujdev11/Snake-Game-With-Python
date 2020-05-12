@@ -3,8 +3,6 @@ Snake Game Made with Python Using Pygame module
 
 > ### To play the game, simply double click on the **build/snake.exe**.
 
-## Working
-
 ## Welcome Screen
 ![alt text](https://github.com/anujdev11/Snake-Game-With-Python/blob/master/images/1.JPG)
 
