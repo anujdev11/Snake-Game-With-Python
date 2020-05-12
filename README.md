@@ -22,12 +22,9 @@ To run this project or make your own version of it, follow these steps:
 
     `pip install -r requirements.txt`
 
-3. If everything is alright, you should be able to start the Flask development server:
+3. If everything is alright, you should be able to start the Game:
 
     `python snake.py`
-
-4. And Game Starts running
-
 ---
 
 Dont Delete Any Files.. IT MAY CRASH THE GAME!
